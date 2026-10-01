@@ -34,6 +34,3 @@
 .reduced-motion{scroll-behavior:auto!important}
 
 @media(max-width:380px){.header .header-cta{display:none}.header .menu-toggle{margin-left:auto}.hero-eyebrow{font-size:.75rem;letter-spacing:0}.team-grid{gap:35px 14px}}
-
-/* EstateStar brand mark: vector outline, independent of emoji fonts. */
-.hero .estate-brand-star{width:1em;height:1em;flex:0 0 1em;overflow:visible;color:#080a09;stroke:currentColor;stroke-width:6;stroke-linejoin:round;stroke-linecap:round;animation:none;filter:drop-shadow(0 0 1px rgba(255,255,255,.45))}
